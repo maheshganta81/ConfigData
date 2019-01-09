@@ -6,6 +6,7 @@ acme:
       description: my description
     - name: another name
       description: another description
+lucky-word: Lucky
 ---
 spring:
   profiles: dev
